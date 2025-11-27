@@ -7,6 +7,7 @@ if(num== 1 || num == 2){
 }
 if (num== 0 ){
     console.log("plese use an valid no.")
+    return
 }
 
 for (let i = 2; i < num; i++) {
@@ -24,4 +25,4 @@ if (count > 2) {
 }
 
 let num;
-PrimeNumber(1)
+PrimeNumber(2)
