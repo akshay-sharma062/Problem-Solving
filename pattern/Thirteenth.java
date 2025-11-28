@@ -27,6 +27,9 @@ public class Thirteenth {
                 System.out.println();  
             }
 
+
+
+            
         }
         for (int i = 0; i < n; i++) {
             for (int j = n; j > i+1; j--) {
